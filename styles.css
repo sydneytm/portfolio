@@ -1,15 +1,17 @@
 /* file: styles.css */
 body{
-    background-image:url(https://wallpapercave.com/wp/wp6026871.jpg)
+   background-color: #FEEDFB;
   }
+
   #navbar{
     display:flex;
-    background-color:cyan;
+    background-color:#F0C5E8 ;
     list-style:none;
     position:fixed;
     width:100%;
     top:0;
     left:0;
+    height: 100px;
   }
   li{
     display:flex;

@@ -24,20 +24,20 @@ body{
     text-decoration:none;
   }
   h1{
-    background-color:black;
-    color:red;
+    background-color:white;
+    color:#f94075;
     font-size:50px;
     padding:80px;
     text-align:center;
   }
   p{
-    background-color:black;
-    color:red;
+    background-color:white;
+    color: #f94075;;
     text-align:center;
     padding:20px;
   }
   #contact{
-   background-color:cyan; 
+   background-color: #F0C5E8; 
    padding:20 20 20 20;
     margin-bottom:20;
   }
@@ -46,7 +46,7 @@ body{
     color:black;
   }
   #projects{
-    background-color:cyan;
+    background-color:#F0C5E8;
     padding:20 20 20 20;
     margin-bottom:20;
   }

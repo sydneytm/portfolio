@@ -4,6 +4,7 @@ body{
   }
 
   #navbar{
+    padding-top: 10px;
     display:flex;
     background-color:#F0C5E8 ;
     list-style:none;
@@ -24,14 +25,14 @@ body{
     text-decoration:none;
   }
   h1{
-    background-color:white;
+    /* background-color:white; */
     color:#f94075;
     font-size:50px;
     padding:80px;
     text-align:center;
   }
   p{
-    background-color:white;
+    /* background-color:white; */
     color: #f94075;;
     text-align:center;
     padding:20px;
